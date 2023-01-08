@@ -27,9 +27,9 @@ local_ip_ranges = [
 ]
 
 directories: dict = {
-    "temp": "./temp",
-    "mikrotik": "./mikrotik",
-    "iptables": "./iptables"
+    "temp": "./input/temp",
+    "mikrotik": "./output/mikrotik",
+    "iptables": "./output/iptables"
 }
 
 country_codes: dict = {
@@ -64,7 +64,7 @@ def check_directories():
         if not os.path.isdir(path):
             logging.info(f"{path} doesn't exist. Creating.")
             try:
-                os.mkdir(path)
+                os.makedirs(path, exist_ok=True)
             except Exception as ex:
                 logging.fatal(f"Fatal exception when creating {path}. {ex}")
         else:
