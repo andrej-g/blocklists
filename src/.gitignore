@@ -118,7 +118,7 @@ fabric.properties
 
 # project specific stuff
 BlockListDownloader/blocklistdownloader.log
-BlockListDownloader/iptables/**
-BlockListDownloader/mikrotik/**
-BlockListDownloader/temp/**
+BlockListDownloader/output/iptables/**
+BlockListDownloader/output/mikrotik/**
+BlockListDownloader/input/temp/**
 BlockListDownloader/__pycache__
