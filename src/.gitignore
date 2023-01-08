@@ -121,3 +121,4 @@ BlockListDownloader/blocklistdownloader.log
 BlockListDownloader/iptables/**
 BlockListDownloader/mikrotik/**
 BlockListDownloader/temp/**
+BlockListDownloader/__pycache__
