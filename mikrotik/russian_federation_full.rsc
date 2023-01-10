@@ -9929,7 +9929,6 @@ add address="93.157.232.0/21" comment="russian_federation_full" list="russian_fe
 add address="93.157.240.0/21" comment="russian_federation_full" list="russian_federation_full"
 add address="93.175.0.0/19" comment="russian_federation_full" list="russian_federation_full"
 add address="94.45.0.0/19" comment="russian_federation_full" list="russian_federation_full"
-add address="94.45.160.0/19" comment="russian_federation_full" list="russian_federation_full"
 add address="94.45.192.0/19" comment="russian_federation_full" list="russian_federation_full"
 add address="94.154.64.0/20" comment="russian_federation_full" list="russian_federation_full"
 add address="94.154.80.0/21" comment="russian_federation_full" list="russian_federation_full"

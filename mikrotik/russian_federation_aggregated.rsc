@@ -4063,7 +4063,6 @@ add address="94.29.0.0/17" comment="russian_federation_aggregated" list="russian
 add address="94.31.128.0/17" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="94.41.0.0/16" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="94.45.0.0/19" comment="russian_federation_aggregated" list="russian_federation_aggregated"
-add address="94.45.160.0/19" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="94.45.192.0/19" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="94.50.0.0/15" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="94.72.0.0/18" comment="russian_federation_aggregated" list="russian_federation_aggregated"
