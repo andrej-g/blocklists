@@ -2952,7 +2952,7 @@ add address="177.72.200.0/22" comment="brazil_aggregated" list="brazil_aggregate
 add address="177.72.208.0/20" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.72.224.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.0.0/17" comment="brazil_aggregated" list="brazil_aggregated"
-add address="177.73.128.0/20" comment="brazil_aggregated" list="brazil_aggregated"
+add address="177.73.136.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.144.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.160.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.192.0/20" comment="brazil_aggregated" list="brazil_aggregated"
