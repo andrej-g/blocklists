@@ -917,6 +917,7 @@ add address="185.198.72.0/22" comment="turkey_aggregated" list="turkey_aggregate
 add address="185.198.124.0/22" comment="turkey_aggregated" list="turkey_aggregated"
 add address="185.198.196.0/22" comment="turkey_aggregated" list="turkey_aggregated"
 add address="185.199.88.0/22" comment="turkey_aggregated" list="turkey_aggregated"
+add address="185.199.209.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="185.200.20.0/22" comment="turkey_aggregated" list="turkey_aggregated"
 add address="185.200.28.0/22" comment="turkey_aggregated" list="turkey_aggregated"
 add address="185.200.36.0/22" comment="turkey_aggregated" list="turkey_aggregated"
