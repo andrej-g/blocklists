@@ -2146,7 +2146,7 @@ add address="103.145.106.0/23" comment="china_aggregated" list="china_aggregated
 add address="103.145.122.0/23" comment="china_aggregated" list="china_aggregated"
 add address="103.145.188.0/22" comment="china_aggregated" list="china_aggregated"
 add address="103.146.72.0/23" comment="china_aggregated" list="china_aggregated"
-add address="103.146.88.0/22" comment="china_aggregated" list="china_aggregated"
+add address="103.146.90.0/23" comment="china_aggregated" list="china_aggregated"
 add address="103.146.124.0/22" comment="china_aggregated" list="china_aggregated"
 add address="103.146.138.0/23" comment="china_aggregated" list="china_aggregated"
 add address="103.146.230.0/23" comment="china_aggregated" list="china_aggregated"
