@@ -1170,6 +1170,7 @@ add address="194.0.223.0/24" comment="turkey_aggregated" list="turkey_aggregated
 add address="194.1.184.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="194.1.192.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="194.1.200.0/24" comment="turkey_aggregated" list="turkey_aggregated"
+add address="194.1.208.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="194.1.218.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="194.1.244.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="194.5.232.0/23" comment="turkey_aggregated" list="turkey_aggregated"
