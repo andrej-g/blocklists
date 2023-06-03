@@ -154,6 +154,7 @@ add address="83.137.152.0/21" comment="hungary_aggregated" list="hungary_aggrega
 add address="84.0.0.0/14" comment="hungary_aggregated" list="hungary_aggregated"
 add address="84.21.0.0/19" comment="hungary_aggregated" list="hungary_aggregated"
 add address="84.21.180.0/22" comment="hungary_aggregated" list="hungary_aggregated"
+add address="84.38.244.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="84.206.0.0/16" comment="hungary_aggregated" list="hungary_aggregated"
 add address="84.224.0.0/15" comment="hungary_aggregated" list="hungary_aggregated"
 add address="84.236.0.0/17" comment="hungary_aggregated" list="hungary_aggregated"
