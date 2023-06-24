@@ -413,6 +413,7 @@ add address="103.224.12.0/22" comment="pakistan_aggregated" list="pakistan_aggre
 add address="103.225.48.0/22" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="103.225.220.0/22" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="103.226.216.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
+add address="103.227.6.0/24" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="103.228.156.0/22" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="103.232.142.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="103.232.225.0/24" comment="pakistan_aggregated" list="pakistan_aggregated"
