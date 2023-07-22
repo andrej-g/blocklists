@@ -6712,7 +6712,6 @@ add address="193.9.17.0/24" comment="russian_federation_aggregated" list="russia
 add address="193.9.20.0/24" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="193.9.22.0/24" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="193.9.60.0/22" comment="russian_federation_aggregated" list="russian_federation_aggregated"
-add address="193.9.126.0/24" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="193.9.156.0/23" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="193.9.240.0/21" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="193.9.251.0/24" comment="russian_federation_aggregated" list="russian_federation_aggregated"
