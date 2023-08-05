@@ -1456,6 +1456,7 @@ add address="103.246.160.0/22" comment="hong_kong_aggregated" list="hong_kong_ag
 add address="103.246.176.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.246.216.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.246.244.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="103.247.28.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.247.92.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.247.136.0/21" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.247.144.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
