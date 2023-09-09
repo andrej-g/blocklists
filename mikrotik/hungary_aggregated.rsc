@@ -213,6 +213,7 @@ add address="91.212.250.0/24" comment="hungary_aggregated" list="hungary_aggrega
 add address="91.213.9.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="91.213.40.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="91.213.150.0/24" comment="hungary_aggregated" list="hungary_aggregated"
+add address="91.214.112.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="91.216.60.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="91.216.70.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="91.216.150.0/24" comment="hungary_aggregated" list="hungary_aggregated"
