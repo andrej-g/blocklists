@@ -2,6 +2,7 @@
 add address="5.101.96.0/21" comment="digitalocean" list="digitalocean"
 add address="5.101.104.0/22" comment="digitalocean" list="digitalocean"
 add address="24.144.64.0/22" comment="digitalocean" list="digitalocean"
+add address="24.144.68.0/22" comment="digitalocean" list="digitalocean"
 add address="24.144.80.0/20" comment="digitalocean" list="digitalocean"
 add address="24.144.96.0/19" comment="digitalocean" list="digitalocean"
 add address="24.199.64.0/22" comment="digitalocean" list="digitalocean"

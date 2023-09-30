@@ -1238,6 +1238,8 @@ add address="103.203.48.0/22" comment="hong_kong_aggregated" list="hong_kong_agg
 add address="103.203.184.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.203.220.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.203.223.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="103.203.240.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="103.203.242.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.204.76.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.204.96.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.204.108.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
