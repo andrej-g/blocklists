@@ -436,6 +436,7 @@ add address="96.9.176.0/20" comment="hong_kong_aggregated" list="hong_kong_aggre
 add address="101.1.4.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="101.36.96.0/19" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="101.78.128.0/17" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="101.101.98.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.1.12.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.1.16.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="103.1.32.0/21" comment="hong_kong_aggregated" list="hong_kong_aggregated"
