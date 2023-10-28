@@ -128,6 +128,7 @@ add address="103.51.140.0/22" comment="taiwan_aggregated" list="taiwan_aggregate
 add address="103.59.220.0/22" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="103.61.136.0/22" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="103.64.20.0/22" comment="taiwan_aggregated" list="taiwan_aggregated"
+add address="103.67.72.0/23" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="103.67.160.0/23" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="103.67.204.0/22" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="103.68.138.0/24" comment="taiwan_aggregated" list="taiwan_aggregated"
