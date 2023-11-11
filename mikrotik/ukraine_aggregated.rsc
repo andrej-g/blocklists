@@ -2112,7 +2112,6 @@ add address="193.242.166.0/24" comment="ukraine_aggregated" list="ukraine_aggreg
 add address="193.242.216.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="193.243.152.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="193.243.156.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="193.243.167.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="193.246.146.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="193.246.148.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="193.254.196.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
