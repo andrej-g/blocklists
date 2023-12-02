@@ -607,6 +607,7 @@ add address="203.223.160.0/20" comment="pakistan_aggregated" list="pakistan_aggr
 add address="209.150.144.0/20" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="210.2.128.0/18" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="210.56.0.0/19" comment="pakistan_aggregated" list="pakistan_aggregated"
+add address="210.79.166.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="218.100.85.0/24" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="221.120.192.0/18" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="221.132.112.0/21" comment="pakistan_aggregated" list="pakistan_aggregated"
