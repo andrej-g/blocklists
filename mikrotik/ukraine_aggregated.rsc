@@ -1674,6 +1674,7 @@ add address="185.255.4.0/22" comment="ukraine_aggregated" list="ukraine_aggregat
 add address="185.255.48.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="185.255.196.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="188.0.64.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
+add address="188.65.160.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="188.66.24.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="188.93.118.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="188.115.128.0/18" comment="ukraine_aggregated" list="ukraine_aggregated"
