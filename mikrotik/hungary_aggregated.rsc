@@ -505,6 +505,7 @@ add address="193.142.145.0/24" comment="hungary_aggregated" list="hungary_aggreg
 add address="193.142.153.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="193.142.209.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="193.151.116.0/22" comment="hungary_aggregated" list="hungary_aggregated"
+add address="193.161.201.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="193.163.47.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="193.169.16.0/23" comment="hungary_aggregated" list="hungary_aggregated"
 add address="193.176.102.0/23" comment="hungary_aggregated" list="hungary_aggregated"
