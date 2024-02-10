@@ -3480,6 +3480,7 @@ add address="187.110.0.0/16" comment="brazil_aggregated" list="brazil_aggregated
 add address="187.111.0.0/18" comment="brazil_aggregated" list="brazil_aggregated"
 add address="187.111.64.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="187.111.96.0/20" comment="brazil_aggregated" list="brazil_aggregated"
+add address="187.111.112.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="187.111.124.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="187.111.128.0/17" comment="brazil_aggregated" list="brazil_aggregated"
 add address="187.112.0.0/13" comment="brazil_aggregated" list="brazil_aggregated"
