@@ -4149,7 +4149,7 @@ add address="200.176.0.0/13" comment="brazil_aggregated" list="brazil_aggregated
 add address="200.184.0.0/14" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.188.160.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.188.192.0/18" comment="brazil_aggregated" list="brazil_aggregated"
-add address="200.189.0.0/19" comment="brazil_aggregated" list="brazil_aggregated"
+add address="200.189.0.0/20" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.189.32.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.189.40.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.189.48.0/20" comment="brazil_aggregated" list="brazil_aggregated"
