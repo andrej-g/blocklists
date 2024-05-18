@@ -520,6 +520,7 @@ add address="157.66.154.0/23" comment="taiwan_aggregated" list="taiwan_aggregate
 add address="157.66.166.0/23" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="159.117.64.0/19" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="160.19.52.0/22" comment="taiwan_aggregated" list="taiwan_aggregated"
+add address="160.19.90.0/23" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="163.13.0.0/16" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="163.14.0.0/15" comment="taiwan_aggregated" list="taiwan_aggregated"
 add address="163.16.0.0/12" comment="taiwan_aggregated" list="taiwan_aggregated"
