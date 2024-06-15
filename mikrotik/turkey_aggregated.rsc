@@ -1336,6 +1336,7 @@ add address="212.98.192.0/18" comment="turkey_aggregated" list="turkey_aggregate
 add address="212.101.96.0/19" comment="turkey_aggregated" list="turkey_aggregated"
 add address="212.102.103.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="212.103.36.0/22" comment="turkey_aggregated" list="turkey_aggregated"
+add address="212.104.151.0/24" comment="turkey_aggregated" list="turkey_aggregated"
 add address="212.107.4.0/22" comment="turkey_aggregated" list="turkey_aggregated"
 add address="212.108.128.0/19" comment="turkey_aggregated" list="turkey_aggregated"
 add address="212.109.96.0/19" comment="turkey_aggregated" list="turkey_aggregated"
