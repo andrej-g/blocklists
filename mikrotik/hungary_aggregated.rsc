@@ -282,6 +282,7 @@ add address="109.69.112.0/21" comment="hungary_aggregated" list="hungary_aggrega
 add address="109.74.48.0/20" comment="hungary_aggregated" list="hungary_aggregated"
 add address="109.105.0.0/19" comment="hungary_aggregated" list="hungary_aggregated"
 add address="109.110.128.0/19" comment="hungary_aggregated" list="hungary_aggregated"
+add address="109.122.216.0/21" comment="hungary_aggregated" list="hungary_aggregated"
 add address="109.199.32.0/19" comment="hungary_aggregated" list="hungary_aggregated"
 add address="109.232.200.0/21" comment="hungary_aggregated" list="hungary_aggregated"
 add address="128.0.4.0/22" comment="hungary_aggregated" list="hungary_aggregated"
