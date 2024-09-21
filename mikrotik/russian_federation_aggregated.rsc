@@ -2056,7 +2056,7 @@ add address="89.169.36.0/22" comment="russian_federation_aggregated" list="russi
 add address="89.169.40.0/21" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="89.169.48.0/22" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="89.169.56.0/21" comment="russian_federation_aggregated" list="russian_federation_aggregated"
-add address="89.169.64.0/18" comment="russian_federation_aggregated" list="russian_federation_aggregated"
+add address="89.169.64.0/19" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="89.169.128.0/17" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="89.175.0.0/16" comment="russian_federation_aggregated" list="russian_federation_aggregated"
 add address="89.178.0.0/15" comment="russian_federation_aggregated" list="russian_federation_aggregated"
