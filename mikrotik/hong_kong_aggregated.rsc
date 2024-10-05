@@ -2008,6 +2008,7 @@ add address="183.178.0.0/15" comment="hong_kong_aggregated" list="hong_kong_aggr
 add address="183.182.80.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="185.7.214.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="185.10.104.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="185.11.61.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="185.19.202.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="185.20.4.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="185.23.180.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"

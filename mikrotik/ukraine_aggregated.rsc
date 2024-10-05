@@ -1175,7 +1175,6 @@ add address="176.98.0.0/19" comment="ukraine_aggregated" list="ukraine_aggregate
 add address="176.98.64.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.100.0.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.100.56.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="176.100.160.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.101.192.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.102.32.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.102.192.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
