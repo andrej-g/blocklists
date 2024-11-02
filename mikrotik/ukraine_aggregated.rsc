@@ -1223,7 +1223,7 @@ add address="176.114.0.0/20" comment="ukraine_aggregated" list="ukraine_aggregat
 add address="176.116.64.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.116.192.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.117.64.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="176.117.80.0/20" comment="ukraine_aggregated" list="ukraine_aggregated"
+add address="176.117.80.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.117.160.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.118.40.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="176.118.48.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
