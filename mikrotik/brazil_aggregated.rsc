@@ -3806,6 +3806,7 @@ add address="192.100.168.0/24" comment="brazil_aggregated" list="brazil_aggregat
 add address="192.100.177.0/24" comment="brazil_aggregated" list="brazil_aggregated"
 add address="192.100.206.0/24" comment="brazil_aggregated" list="brazil_aggregated"
 add address="192.100.214.0/23" comment="brazil_aggregated" list="brazil_aggregated"
+add address="192.100.223.0/24" comment="brazil_aggregated" list="brazil_aggregated"
 add address="192.100.228.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="192.100.247.0/24" comment="brazil_aggregated" list="brazil_aggregated"
 add address="192.100.248.0/24" comment="brazil_aggregated" list="brazil_aggregated"
