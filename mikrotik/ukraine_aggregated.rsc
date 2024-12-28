@@ -494,7 +494,6 @@ add address="91.199.37.0/24" comment="ukraine_aggregated" list="ukraine_aggregat
 add address="91.199.45.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.199.91.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.199.92.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="91.199.106.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.199.138.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.199.144.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.199.188.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
