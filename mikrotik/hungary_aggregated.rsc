@@ -456,6 +456,7 @@ add address="188.36.0.0/16" comment="hungary_aggregated" list="hungary_aggregate
 add address="188.44.128.0/17" comment="hungary_aggregated" list="hungary_aggregated"
 add address="188.93.200.0/21" comment="hungary_aggregated" list="hungary_aggregated"
 add address="188.94.136.0/21" comment="hungary_aggregated" list="hungary_aggregated"
+add address="188.95.193.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="188.127.128.0/19" comment="hungary_aggregated" list="hungary_aggregated"
 add address="188.142.128.0/17" comment="hungary_aggregated" list="hungary_aggregated"
 add address="188.143.0.0/17" comment="hungary_aggregated" list="hungary_aggregated"
