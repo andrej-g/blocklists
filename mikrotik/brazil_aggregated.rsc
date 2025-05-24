@@ -1325,6 +1325,7 @@ add address="45.239.224.0/19" comment="brazil_aggregated" list="brazil_aggregate
 add address="58.84.12.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="67.159.224.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="72.44.16.0/20" comment="brazil_aggregated" list="brazil_aggregated"
+add address="83.137.198.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="83.170.168.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="85.113.92.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="86.111.54.0/23" comment="brazil_aggregated" list="brazil_aggregated"
