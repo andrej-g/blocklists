@@ -2683,7 +2683,7 @@ add address="203.161.4.0/22" comment="hong_kong_aggregated" list="hong_kong_aggr
 add address="203.161.224.0/19" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="203.166.220.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="203.168.132.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
-add address="203.168.192.0/20" comment="hong_kong_aggregated" list="hong_kong_aggregated"
+add address="203.168.200.0/21" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="203.168.220.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="203.168.224.0/19" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="203.169.32.0/20" comment="hong_kong_aggregated" list="hong_kong_aggregated"
