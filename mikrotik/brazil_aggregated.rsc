@@ -4313,7 +4313,7 @@ add address="200.24.10.0/23" comment="brazil_aggregated" list="brazil_aggregated
 add address="200.24.64.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.24.96.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.24.108.0/22" comment="brazil_aggregated" list="brazil_aggregated"
-add address="200.24.116.0/22" comment="brazil_aggregated" list="brazil_aggregated"
+add address="200.24.112.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.24.120.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.26.228.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="200.26.240.0/20" comment="brazil_aggregated" list="brazil_aggregated"
