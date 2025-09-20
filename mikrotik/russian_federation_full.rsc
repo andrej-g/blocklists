@@ -4222,6 +4222,7 @@ add address="171.33.244.0/22" comment="russian_federation_full" list="russian_fe
 add address="171.33.248.0/21" comment="russian_federation_full" list="russian_federation_full"
 add address="176.10.91.0/24" comment="russian_federation_full" list="russian_federation_full"
 add address="176.10.93.0/24" comment="russian_federation_full" list="russian_federation_full"
+add address="176.12.64.0/21" comment="russian_federation_full" list="russian_federation_full"
 add address="176.12.96.0/21" comment="russian_federation_full" list="russian_federation_full"
 add address="176.14.0.0/15" comment="russian_federation_full" list="russian_federation_full"
 add address="176.28.64.0/21" comment="russian_federation_full" list="russian_federation_full"
