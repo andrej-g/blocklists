@@ -1771,7 +1771,7 @@ add address="138.122.176.0/21" comment="brazil_aggregated" list="brazil_aggregat
 add address="138.122.196.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="138.122.204.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="138.122.208.0/20" comment="brazil_aggregated" list="brazil_aggregated"
-add address="138.122.236.0/22" comment="brazil_aggregated" list="brazil_aggregated"
+add address="138.122.232.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="138.122.240.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="138.122.248.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="138.185.4.0/22" comment="brazil_aggregated" list="brazil_aggregated"
