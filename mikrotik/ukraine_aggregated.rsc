@@ -928,7 +928,7 @@ add address="91.236.221.0/24" comment="ukraine_aggregated" list="ukraine_aggrega
 add address="91.236.224.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.236.248.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.237.4.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="91.237.8.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
+add address="91.237.12.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.237.24.0/22" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.237.36.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="91.237.40.0/23" comment="ukraine_aggregated" list="ukraine_aggregated"
