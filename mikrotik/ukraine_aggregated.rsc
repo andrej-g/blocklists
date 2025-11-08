@@ -26,7 +26,6 @@ add address="5.255.32.0/20" comment="ukraine_aggregated" list="ukraine_aggregate
 add address="5.255.160.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="31.3.192.0/20" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="31.12.128.0/17" comment="ukraine_aggregated" list="ukraine_aggregated"
-add address="31.24.81.0/24" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="31.31.96.0/19" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="31.40.16.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
 add address="31.40.104.0/21" comment="ukraine_aggregated" list="ukraine_aggregated"
