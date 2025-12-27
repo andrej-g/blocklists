@@ -1089,6 +1089,7 @@ add address="45.229.200.0/22" comment="brazil_aggregated" list="brazil_aggregate
 add address="45.229.208.0/20" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.229.224.0/20" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.229.240.0/22" comment="brazil_aggregated" list="brazil_aggregated"
+add address="45.229.252.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.230.0.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.230.16.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.230.24.0/21" comment="brazil_aggregated" list="brazil_aggregated"
