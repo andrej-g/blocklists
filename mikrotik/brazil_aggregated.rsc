@@ -3020,7 +3020,7 @@ add address="177.73.192.0/19" comment="brazil_aggregated" list="brazil_aggregate
 add address="177.73.224.0/20" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.240.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.73.248.0/22" comment="brazil_aggregated" list="brazil_aggregated"
-add address="177.73.253.0/24" comment="brazil_aggregated" list="brazil_aggregated"
+add address="177.73.252.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.74.0.0/18" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.74.64.0/19" comment="brazil_aggregated" list="brazil_aggregated"
 add address="177.74.96.0/22" comment="brazil_aggregated" list="brazil_aggregated"
