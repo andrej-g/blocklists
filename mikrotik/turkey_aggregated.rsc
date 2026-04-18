@@ -303,6 +303,7 @@ add address="85.95.224.0/19" comment="turkey_aggregated" list="turkey_aggregated
 add address="85.96.0.0/12" comment="turkey_aggregated" list="turkey_aggregated"
 add address="85.119.32.0/21" comment="turkey_aggregated" list="turkey_aggregated"
 add address="85.119.64.0/21" comment="turkey_aggregated" list="turkey_aggregated"
+add address="85.136.208.0/23" comment="turkey_aggregated" list="turkey_aggregated"
 add address="85.153.128.0/17" comment="turkey_aggregated" list="turkey_aggregated"
 add address="85.158.96.0/21" comment="turkey_aggregated" list="turkey_aggregated"
 add address="85.159.64.0/20" comment="turkey_aggregated" list="turkey_aggregated"
