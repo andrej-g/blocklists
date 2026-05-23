@@ -360,6 +360,7 @@ add address="185.51.188.0/22" comment="hungary_aggregated" list="hungary_aggrega
 add address="185.55.12.0/22" comment="hungary_aggregated" list="hungary_aggregated"
 add address="185.60.68.0/22" comment="hungary_aggregated" list="hungary_aggregated"
 add address="185.60.100.0/22" comment="hungary_aggregated" list="hungary_aggregated"
+add address="185.60.221.0/24" comment="hungary_aggregated" list="hungary_aggregated"
 add address="185.62.128.0/22" comment="hungary_aggregated" list="hungary_aggregated"
 add address="185.63.44.0/22" comment="hungary_aggregated" list="hungary_aggregated"
 add address="185.65.8.0/22" comment="hungary_aggregated" list="hungary_aggregated"
