@@ -650,4 +650,5 @@ add address="217.144.54.0/23" comment="hungary_aggregated" list="hungary_aggrega
 add address="217.144.56.0/21" comment="hungary_aggregated" list="hungary_aggregated"
 add address="217.150.128.0/20" comment="hungary_aggregated" list="hungary_aggregated"
 add address="217.173.32.0/20" comment="hungary_aggregated" list="hungary_aggregated"
+add address="217.180.20.0/23" comment="hungary_aggregated" list="hungary_aggregated"
 add address="217.197.176.0/20" comment="hungary_aggregated" list="hungary_aggregated"
