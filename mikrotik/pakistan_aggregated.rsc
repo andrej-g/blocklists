@@ -576,6 +576,7 @@ add address="160.187.180.0/23" comment="pakistan_aggregated" list="pakistan_aggr
 add address="160.191.158.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="160.191.208.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="160.191.228.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
+add address="160.236.86.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="160.250.50.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="160.250.96.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
 add address="160.250.114.0/23" comment="pakistan_aggregated" list="pakistan_aggregated"
