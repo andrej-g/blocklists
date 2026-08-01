@@ -3725,6 +3725,7 @@ add address="160.202.216.0/21" comment="china_aggregated" list="china_aggregated
 add address="160.202.224.0/19" comment="china_aggregated" list="china_aggregated"
 add address="160.236.78.0/23" comment="china_aggregated" list="china_aggregated"
 add address="160.236.148.0/23" comment="china_aggregated" list="china_aggregated"
+add address="160.236.162.0/23" comment="china_aggregated" list="china_aggregated"
 add address="160.250.14.0/23" comment="china_aggregated" list="china_aggregated"
 add address="160.250.16.0/22" comment="china_aggregated" list="china_aggregated"
 add address="160.250.24.0/23" comment="china_aggregated" list="china_aggregated"
