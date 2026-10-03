@@ -1004,6 +1004,7 @@ add address="45.226.128.0/20" comment="brazil_aggregated" list="brazil_aggregate
 add address="45.226.148.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.226.152.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.226.160.0/21" comment="brazil_aggregated" list="brazil_aggregated"
+add address="45.226.180.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.226.188.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.226.192.0/21" comment="brazil_aggregated" list="brazil_aggregated"
 add address="45.226.200.0/22" comment="brazil_aggregated" list="brazil_aggregated"
@@ -4924,4 +4925,5 @@ add address="209.172.6.0/23" comment="brazil_aggregated" list="brazil_aggregated
 add address="212.47.35.0/24" comment="brazil_aggregated" list="brazil_aggregated"
 add address="213.163.246.0/23" comment="brazil_aggregated" list="brazil_aggregated"
 add address="216.98.208.0/20" comment="brazil_aggregated" list="brazil_aggregated"
+add address="216.194.76.0/22" comment="brazil_aggregated" list="brazil_aggregated"
 add address="216.245.133.0/24" comment="brazil_aggregated" list="brazil_aggregated"
