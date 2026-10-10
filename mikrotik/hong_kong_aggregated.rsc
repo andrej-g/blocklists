@@ -1984,7 +1984,6 @@ add address="159.200.192.0/21" comment="hong_kong_aggregated" list="hong_kong_ag
 add address="159.200.203.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="159.200.204.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="159.200.208.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
-add address="159.200.210.0/24" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="159.200.212.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="159.200.222.0/23" comment="hong_kong_aggregated" list="hong_kong_aggregated"
 add address="159.200.224.0/22" comment="hong_kong_aggregated" list="hong_kong_aggregated"
